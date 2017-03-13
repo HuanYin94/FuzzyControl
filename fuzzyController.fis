@@ -1,4 +1,4 @@
-[System]
+loa[System]
 Name='fuzzyController'
 Type='mamdani'
 Version=2.0
